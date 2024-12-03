@@ -1,0 +1,11 @@
+{
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    // pas de trichage! no cheating!
+    "cpp": false,
+    "py": false,
+  }
+}
